@@ -108,6 +108,10 @@ body, .app {
   background-position: center;
   background-size: 28px;
   font-size: 0;
+  padding: 25px;
+  position: absolute;
+  top: 65px;
+  right: 0px;
 }
 
 .showing-contacts {
